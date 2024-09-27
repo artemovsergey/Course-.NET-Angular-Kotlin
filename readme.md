@@ -148,10 +148,7 @@ Implement the Messaging functionality and gain an understanding of the following
 Refactor our code to use ASP.NET Identity and gain an understanding of the following
 1. Using .NET Identity
 2. Role managment
-3. Policy based autorisation
-4. ```UserManager<T>```
-5. ```SignInManager<T>```
-6. ```RoleManager<T>```
+3. Policy based autorisation ```UserManager<T>```, ```SignInManager<T>```,```RoleManager<T>```
 
 
 # Sprint 16
